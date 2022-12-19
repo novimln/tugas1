@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section img {
+    border-radius: 100%;
+    border: 10px solid rgb(225, 255, 255);
+}
+table, td, th{
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+body{
+    background-image: url('background..jpg');
+    text-align:center;
+
+}
